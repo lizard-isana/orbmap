@@ -1,7 +1,0 @@
-
-
- https://github.com/d3/d3-geo-projection/
- 
-
-【D3.js】世界地図画像をクライアントサイドで再投影処理する
-https://shimz.me/blog/d3-js/4280
