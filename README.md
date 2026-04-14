@@ -75,8 +75,3 @@ OrbMap - Globe Map Generator
 【サンプル】
 日本経緯度原点を中心に、半径400kmの赤い円を描く
 https://www.lizard-tail.com/isana/orb/map/?projection=orthographic&latlng=35.658099,139.741357&scale=20&accuracy=high&graticule=true&dl=true&draw=&draw=circle:35.658099N139.741357E-400KM:red
-
-【作者/管理者】
-  柏井 勇魚(KASHIWAI, Isana)
-  e-mail: isana.k at gmail.com
-  Twitter: @lizard_isana
